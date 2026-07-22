@@ -1,4 +1,4 @@
-# employee-performance-analysis
+# employee-Sales-performance-analysis
 This project analyzes employee performance data using Excel to uncover key business insights such as revenue trends, departmental performance, and monthly sales patterns. This project was just to test my understanding of Microsoft Excel , being the Second most demand skill for data Analysis.
 
 # Introduction
